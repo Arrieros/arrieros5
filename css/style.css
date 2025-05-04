@@ -29,7 +29,8 @@ body {
     font-weight: bold;
 }
 .logo-nav {
-    height: 100px;
+        height: 100px; 
+    padding: 5px 0;
 }
 header {
     text-align: center;
